@@ -1,0 +1,6 @@
+Environment and tools:
+.scikit-learn
+.seaborn
+.numpy
+.pandas
+.matplotlib
